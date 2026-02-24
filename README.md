@@ -2,6 +2,7 @@
 
 ## Team Members
 - Laura Andrada
+- Pauline Kragset Pleym
 
 ## Project Description
 Credit scoring bias analysis for the DEGO course.
