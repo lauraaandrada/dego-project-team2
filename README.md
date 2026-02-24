@@ -2,6 +2,7 @@
 
 ## Team Members
 - Laura Andrada
+- Sivert Ivarhus
 
 ## Project Description
 Credit scoring bias analysis for the DEGO course.
