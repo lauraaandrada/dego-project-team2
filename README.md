@@ -4,6 +4,7 @@
 - Laura Andrada
 - Pauline Kragset Pleym
 - Sivert Ivarhus
+- Behnia Ghadiani
 
 
 ## Project Description
