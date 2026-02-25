@@ -4,10 +4,8 @@
 - Laura Andrada
 - Pauline Kragset Pleym
 - Sivert Ivarhus
-<<<<<<< HEAD
 - Behnia Ghadiani
-=======
->>>>>>> fe11d79cbc466245909a7b74f2fe80dc8c129b31
+
 
 
 ## Project Description
