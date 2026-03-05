@@ -33,31 +33,14 @@ These measures align with:
 - GDPR Article 5(1)(c) – Data Minimization
 - GDPR Article 25 – Data Protection by Design
 
-## 4. Data Governance Assessment
-We will assess:
-- Missing values
-- Data consistency
-- Duplicates
-- Outliers
-- Data validity
-
-## 5. Bias & Fairness Risk
-We will evaluate potential bias related to:
-- Gender
-- Age
-- Income
-- Region
-
-We will assess disparate impact across protected groups.
-
-## 6. AI Risk Management
+## 4. AI Risk Management
 We will:
 - Identify risks
 - Assess impact
 - Define mitigation strategies
 - Propose monitoring mechanisms
 
-## 7. Accountability & Documentation
+## 5. Accountability & Documentation
 - Git will serve as audit trail
 - Clear role responsibilities
 - Transparent documentation of decisions
