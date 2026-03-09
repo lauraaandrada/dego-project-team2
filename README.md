@@ -12,6 +12,11 @@
 | Governance Officer | Pauline Kragset Pleym | 74537 |
 | Product Lead | Laura Andrada | 52013 |
 
+## Project Presentation Video
+
+Watch the project presentation video here:  
+[DEGO Project Presentation](https://youtu.be/hxeeWdrrf_c)
+
 ## How to Run
 
 ### Requirements
@@ -23,7 +28,6 @@ Install the required libraries:
 ```
 pip install pandas numpy matplotlib seaborn scikit-learn
 ```
-
 ### Notebook Execution Order
 
 The analysis is organized in three notebooks:
