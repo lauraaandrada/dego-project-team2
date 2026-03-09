@@ -15,7 +15,7 @@
 ## Project Presentation Video
 
 Watch the project presentation video here:  
-[DEGO Project Presentation](https://youtu.be/hxeeWdrrf_c)
+[DEGO Project Presentation](https://youtu.be/WzzdKxyw6mA)
 
 ## How to Run
 
